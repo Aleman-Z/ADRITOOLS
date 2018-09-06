@@ -13,7 +13,7 @@ Y=[y(1)-out*(IQR) y(2)+out*(IQR)]; %Whiskers
 
 win2=aver>=(Y(2)) ; %Above Upper whiskers
 win3=aver<=(Y(1));
-wi=or(win2,win3);
+win=or(win2,win3);
 % unwanted=V17(wi);
 % wi=not(wi);
 
