@@ -1,4 +1,4 @@
-function[newvector, unwanted]=outlier(V17,out)
+function[newvector, unwanted,wi]=outlier(V17,out)
 
 
 aver=(V17)-mean(V17);
