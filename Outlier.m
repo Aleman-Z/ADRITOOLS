@@ -1,4 +1,4 @@
-function[win]=Outlier(V17,out)
+function[win]=out(V17,out)
 
 
 aver=(V17)-mean(V17);
