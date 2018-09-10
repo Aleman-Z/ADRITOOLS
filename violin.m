@@ -83,7 +83,7 @@ violin(Y,'facecolor',[1 1 0;0 1 0;.3 .3 .3;0 0.3 0.1],'edgecolor','none','bw',0.
 ylabel('\Delta [yesno^{-2}]','FontSize',14)
 %}
 %%
-function[h,L,MX,MED,bw]=violin(Y,varargin)
+function[h,L,MX,MED,bw]=violin(Y,b,varargin)
 
 %defaults:
 %_____________________
@@ -93,7 +93,7 @@ lc='k';
 alp=0.5;
 mc='k';
 medc='r';
-b=[]; %bandwidth
+%b=[]; %bandwidth
 plotlegend=1;
 plotmean=1;
 plotmedian=1;
