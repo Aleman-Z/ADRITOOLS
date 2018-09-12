@@ -16,6 +16,9 @@ Useful and convenient functions for the everyday use of Matlab
 * **frequencylog.m:**  
 *Plots FFT of signal on a log scale. Also available without the log scale as frequency.m*
 
+* **printing.m:**  
+*Prints the current opened figure on .eps, .fig and .pdf formats. Makes use of figure_function.m* 
+
 * **inserter.m:**  
 *Self-explainatory. Complementary and opposite to decimator.* 
 
