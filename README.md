@@ -22,6 +22,9 @@ Useful and convenient functions for the everyday use of Matlab
 * **printing.m:**  
 *Prints the current opened figure on .eps, .fig and .pdf formats. Makes use of figure_function.m* 
 
+* **printing_image.m:**  
+*Prints the current opened figure on .eps, .fig , .pdf and .png formats. Makes use of figure_function.m* 
+
 * **inserter.m:**  
 *Self-explainatory. Complementary and opposite to decimator.* 
 
