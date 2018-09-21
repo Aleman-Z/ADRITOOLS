@@ -34,5 +34,7 @@ Useful and convenient functions for the everyday use of Matlab
 * **xo.m:**  
 *Gives an error on purpose. Used to stop the code at desired locations.* 
 
+* **im.m:**  
+*Generates an image, with colorbar and colormap. Used for faster visualization of matrices.* 
 
 
