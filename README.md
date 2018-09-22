@@ -39,4 +39,5 @@ Useful and convenient functions for the everyday use of Matlab
 
 * **Plot_in_Plot.m:**  
 *Template code indicating how to plot a graph inside another one.* 
+
     <img src="plotinplot.png" width="400">
