@@ -37,6 +37,9 @@ Useful and convenient functions for the everyday use of Matlab
 * **im.m:**  
 *Generates an image, with colorbar and colormap. Used for faster visualization of matrices.* 
 
+* **shadedErrorBar.m:**  
+*Self-explainatory.* 
+
 * **Plot_in_Plot.m:**  
 *Template code indicating how to plot a graph inside another one.* 
 
