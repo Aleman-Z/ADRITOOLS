@@ -37,6 +37,9 @@ Useful and convenient functions for the everyday use of Matlab
 * **im.m:**  
 *Generates an image, with colorbar and colormap. Used for faster visualization of matrices.* 
 
+* **boxplotnout.m:**  
+*A normal boxplot that makes outliers invisible.* 
+
 * **shadedErrorBar.m:**  
 *Self-explainatory.* 
 
