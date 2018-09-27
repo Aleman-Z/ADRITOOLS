@@ -43,6 +43,9 @@ Useful and convenient functions for the everyday use of Matlab
 * **shadedErrorBar.m:**  
 *Self-explainatory.* 
 
+* **stripes.m:**  
+*Takes a binary vector to plot trasparent stripes on a plot.* 
+
 * **progress_bar.m:**  
 *Progress bar to keep track of For iterations.*
 
