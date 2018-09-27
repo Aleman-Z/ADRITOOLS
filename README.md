@@ -46,6 +46,8 @@ Useful and convenient functions for the everyday use of Matlab
 * **stripes.m:**  
 *Takes a binary vector to plot trasparent stripes on a plot.* 
 
+    <img src="stripes.png" width="400">
+
 * **progress_bar.m:**  
 *Progress bar to keep track of For iterations.*
 
