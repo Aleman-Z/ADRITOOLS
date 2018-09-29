@@ -43,6 +43,11 @@ Useful and convenient functions for the everyday use of Matlab
 * **shadedErrorBar.m:**  
 *Self-explainatory.* 
 
+* **envelope1.m:**  
+*Calculates the envelope of a signal via rectification and Low-pass fitlering.* 
+
+    <img src="envelope1.png" width="400">
+
 * **stripes.m:**  
 *Takes a binary vector to plot trasparent stripes on a plot.* 
 
