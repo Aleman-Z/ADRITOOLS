@@ -44,7 +44,7 @@ Useful and convenient functions for the everyday use of Matlab
 *Self-explainatory.* 
 
 * **envelope1.m:**  
-*Calculates the envelope of a signal via rectification and Low-pass fitlering.* 
+*Calculates the envelope of a signal via rectification and Low-pass filtering.* 
 
     <img src="env.png" width="400">
 
