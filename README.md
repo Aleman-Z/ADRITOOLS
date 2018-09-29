@@ -44,7 +44,7 @@ Useful and convenient functions for the everyday use of Matlab
 *Self-explainatory.* 
 
 * **pretty_colors.m:**  
-*Colormap with nicer colors from blue to red.* 
+*Colormap with nicer colors from blue to red. Requires the following* [cbrewer] (https://nl.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) *library.* 
 
     <img src="pretty_colors.png" width="400">
 
