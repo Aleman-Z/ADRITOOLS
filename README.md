@@ -43,6 +43,11 @@ Useful and convenient functions for the everyday use of Matlab
 * **shadedErrorBar.m:**  
 *Self-explainatory.* 
 
+* **pretty_colors.m:**  
+*Colormap with nicer colors from blue to red.* 
+
+    <img src="pretty_colors.png" width="400">
+
 * **envelope1.m:**  
 *Calculates the envelope of a signal via rectification and Low-pass filtering.* 
 
