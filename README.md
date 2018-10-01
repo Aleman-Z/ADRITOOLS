@@ -37,6 +37,9 @@ Useful and convenient functions for the everyday use of Matlab
 * **im.m:**  
 *Generates an image, with colorbar and colormap. Used for faster visualization of matrices.* 
 
+* **tfcohf2.m:**  
+*Set of functions which calculate the time-frequency coherence. Extracted from* [here](https://nl.mathworks.com/matlabcentral/fileexchange/38537-time-frequency-coherency)*.*
+
 * **boxplotnout.m:**  
 *A normal boxplot that makes outliers invisible.* 
 
