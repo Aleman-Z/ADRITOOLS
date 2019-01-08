@@ -70,3 +70,8 @@ Useful and convenient functions for the everyday use of Matlab
 *Template code indicating how to plot a graph inside another one.* 
 
     <img src="plotinplot.png" width="400">
+
+* **stack_signal_example.m:**  
+*Example script for stacking signals over each other.* 
+
+    <img src="stack_signal_example.png" width="400">
