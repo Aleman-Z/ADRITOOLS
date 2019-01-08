@@ -72,6 +72,6 @@ Useful and convenient functions for the everyday use of Matlab
     <img src="plotinplot.png" width="400">
 
 * **stack_signal_example.m:**  
-*Example script for stacking signals over each other.[Credits](https://nl.mathworks.com/matlabcentral/answers/72216-create-multiple-plots-above-each-other)* 
+*Example script for stacking signals over each other. [Credits: Friedrich (Matlab Staff)](https://nl.mathworks.com/matlabcentral/answers/72216-create-multiple-plots-above-each-other)* 
 
     <img src="stack_signal_example.png" width="400">
