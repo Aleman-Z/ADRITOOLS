@@ -75,3 +75,6 @@ Useful and convenient functions for the everyday use of Matlab
 *Example script for stacking signals over each other. [Credits: Friedrich (Matlab Staff)](https://nl.mathworks.com/matlabcentral/answers/72216-create-multiple-plots-above-each-other)* 
 
     <img src="stack_signal_example.png" width="400">
+
+* **getfolder.m:**  
+*Get folders within current folder, easy to remember .*
