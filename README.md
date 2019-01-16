@@ -64,7 +64,7 @@ Useful and convenient functions for the everyday use of Matlab
 * **progress_bar.m:**  
 *Progress bar to keep track of For iterations.*
 
-    <img src="progress_bar.PNG" width="400">
+    <img src="progress.gif" width="400">
 
 * **Plot_in_Plot.m:**  
 *Template code indicating how to plot a graph inside another one.* 
