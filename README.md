@@ -81,3 +81,7 @@ Useful and convenient functions for the everyday use of Matlab
 
 * **ConsecutiveOnes.m:**  
 *Finds clusters of consecutive ones. [Credits: Image Analyst](https://nl.mathworks.com/matlabcentral/answers/366126-how-many-consecutive-ones)*
+
+* **narrow_colorbar.m:**  
+*Self-explained. [Credits: UCSD](http://pordlabs.ucsd.edu/matlab/graph3.htm)*
+
