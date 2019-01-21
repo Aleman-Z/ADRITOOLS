@@ -9,8 +9,11 @@ function progress_bar(yourvariable,limitvalue,f)
     %end
     %close(f)
     if yourvariable==limitvalue
-    waitbar(1,'MISSION PASSED. RESPECT :)')
-    pause(0.2)
+    F=waitbar(1,'MISSION PASSED. RESPECT :)')
+    pause(2)
     close(f)
+    close(F)
     end
+    beep on
+    beep
 end
