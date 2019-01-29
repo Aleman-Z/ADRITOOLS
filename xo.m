@@ -1,3 +1,3 @@
 function xo
-error('here')
+error('Stop here')
 end
