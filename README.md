@@ -56,7 +56,7 @@ Useful and convenient functions for the everyday use of Matlab
 
     <img src="env.png" width="400">
 
-* **stripes.m:**  
+* **stripes.m and stripesig.m:**  
 *Takes a binary vector to plot trasparent stripes on a plot.* 
 
     <img src="stripes.png" width="400">
