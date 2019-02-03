@@ -1,4 +1,5 @@
-function [granger, v, n] = ft_connectivity_granger(H, Z, S, varargin)
+%function [granger, v, n] = ft_connectivity_granger(H, Z, S, varargin)
+function [granger, v, n] = ft_other(H, Z, S, varargin)
 
 % FT_CONNECTIVITY_GRANGER computes spectrally resolved granger causality.
 % 
