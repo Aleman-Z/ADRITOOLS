@@ -17,7 +17,7 @@ Useful and convenient functions for the everyday use of Matlab
 *Plots FFT of signal on a log scale. Also available without the log scale as frequency.m*
 
 * **mtit.m:**  
-*Plots a title in between axes.* 
+*Plots a title in between axes.* Extracted from [here](https://nl.mathworks.com/matlabcentral/fileexchange/3218-mtit-a-pedestrian-major-title-creator).
 
 * **printing.m:**  
 *Prints the current opened figure on .eps, .fig and .pdf formats. Makes use of figure_function.m* 
