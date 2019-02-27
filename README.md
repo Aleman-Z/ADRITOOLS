@@ -85,5 +85,10 @@ Useful and convenient functions for the everyday use of Matlab
 * **narrow_colorbar.m:**  
 *Self-explained. [Credits: UCSD](http://pordlabs.ucsd.edu/matlab/graph3.htm)*
 
+* **messbox.m:**  
+*Displays a message box with a custom text.* 
+
+    <img src="messbox.PNG" width="300">
+
 * **colortest.m:**  
 *Self-explained. [Credits: MathWorks](https://nl.mathworks.com/help/matlab/ref/fill.html)*
