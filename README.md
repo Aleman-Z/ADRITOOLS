@@ -92,3 +92,7 @@ Useful and convenient functions for the everyday use of Matlab
 
 * **colortest.m:**  
 *Self-explained. [Credits: MathWorks](https://nl.mathworks.com/help/matlab/ref/fill.html)*
+
+* **whosthis.m:**  
+*Displays the name of the current .m file open on the editor.*
+
