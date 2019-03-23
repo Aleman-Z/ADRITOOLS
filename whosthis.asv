@@ -1,9 +1,0 @@
-function whosthis()
-CurrentFile=matlab.desktop.editor.getActiveFilename
-for r=length(CurrentFile):-1:1
-   j=CurrentFile(1,r);
-   if strcmp(j,'\)
-       xo
-   end
-end
-end
