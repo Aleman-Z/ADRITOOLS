@@ -28,6 +28,9 @@ Useful and convenient functions for the everyday use of Matlab
 * **inserter.m:**  
 *Self-explainatory. Complementary and opposite to decimator.* 
 
+* **Isoutlier.m:**  
+*Homecooked code of Matlab function 'isoutlier'.* 
+
 * **outlier.m:**  
 *Finds outliers on skewed distributions. Requires tuning depending on data.*
 
