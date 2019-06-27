@@ -99,3 +99,7 @@ Useful and convenient functions for the everyday use of Matlab
 * **whosthis.m:**  
 *Displays the name of the current .m file open on the editor.*
 
+* **merge_intervals.m:**  
+*Merges intervals that overlap. [Credits: David Goodmanson](https://nl.mathworks.com/matlabcentral/answers/366626-overlapping-time-intervals) *
+
+
