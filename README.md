@@ -102,4 +102,7 @@ Useful and convenient functions for the everyday use of Matlab
 * **merge_intervals.m:**  
 *Merges intervals that overlap. [Credits: David Goodmanson](https://nl.mathworks.com/matlabcentral/answers/366626-overlapping-time-intervals) *
 
+* **merge_mat.m:**  
+*Merges matrices of different dimensions by filling with zeros. [Credits: Andrei Bobrov](https://nl.mathworks.com/matlabcentral/answers/82907-combining-matrices-of-different-sizes) *
+
 
