@@ -105,4 +105,5 @@ Useful and convenient functions for the everyday use of Matlab
 * **merge_mat.m:**  
 *Merges matrices of different dimensions by filling with zeros. [Credits: Andrei Bobrov](https://nl.mathworks.com/matlabcentral/answers/82907-combining-matrices-of-different-sizes) *
 
-
+* **beepnoise.m:**  
+*Plays a beep noise. [Credits: Jan](https://nl.mathworks.com/matlabcentral/answers/24378-alert-sound) *
