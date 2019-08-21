@@ -1,9 +1,16 @@
-function stripes(input,a,time,colour)
+function stripes(input,a,time,colour,amp)
 %stripes(input,a,time)
 %Plots binary data as stripes.
 %Optional inputs:
 %a: Alpha value of transparency.
 %time: time stamps. 
+%amplitude
+if nargin==5
+    rrc=area(time,input*amp,'FaceColor','none');
+    alpha(a)
+    set(rrc, 'FaceColor',colour);
+end
+
 if nargin==4
     rrc=area(time,input,'FaceColor','none');
     alpha(a)
