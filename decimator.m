@@ -1,4 +1,5 @@
 function[new_vector]=decimator(vector1,m)
+warndlg('Replace decimation function with downsampling','Adritools Suggestion')
 new_vector=[]; %New vector
 counter=1;
 n=length(vector1);
