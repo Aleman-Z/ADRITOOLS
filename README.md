@@ -5,7 +5,7 @@ Useful and convenient functions for the everyday use of Matlab
 *Pops-up a matlab figure the size of the current screen (or close to).* 
 
 * **decimator.m:**  
-*Self-explainatory.* 
+*Self-explainatory. Replace with Matlab built-in function "downsample".* 
 
 * **ex.m:**  
 *Extracts the images from a subplot-based figure.* 
