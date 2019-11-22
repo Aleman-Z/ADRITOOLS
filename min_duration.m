@@ -5,7 +5,7 @@ v2=ConsecutiveOnes(nsig); %Self explainatory.
 
 nsec=n*fs_new; %Number of samples equivalent to n seconds. 
 
-v3=(v2>nsec);
+v3=(v2>=nsec);
 v3=v3.*v2;  %Only those above n seconds. 
 iv3=v3>0; %Logic 
 
