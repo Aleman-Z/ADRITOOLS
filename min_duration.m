@@ -1,5 +1,10 @@
 function [znsig]=min_duration(nsig,n,fs_new)
 
+%Correct to right vector arrangement.
+if size(nsig,1)>size(nsig,2)
+    nsig=nsig.';
+end 
+
 znsig=nsig.*0; %Initialize vector with zeros.
 v2=ConsecutiveOnes(nsig); %Self explainatory.
 
