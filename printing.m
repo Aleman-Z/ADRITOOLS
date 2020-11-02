@@ -1,7 +1,7 @@
 function printing(name)
-string=strcat(name,'.eps');
-% saveas(gcf,string)
-print(string,'-depsc')
+% string=strcat(name,'.eps');
+% % saveas(gcf,string)
+% print(string,'-depsc')
 
 string=strcat(name,'.fig');
 saveas(gcf,string)
